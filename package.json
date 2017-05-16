@@ -1,6 +1,6 @@
 {
   "name": "webpack2-hmr-typescript",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Webpack HMR typescript template",
   "scripts": {
     "start": "webpack",
