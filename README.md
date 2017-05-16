@@ -1,2 +1,16 @@
-# webpack2-hmr-typescript
-Working webpack 2 hot module replacment (HMR) in typescript
+# Webpack2 HTM TypeScript Template
+
+It's just easy to edit template
+
+## How to start?
+
+```
+npm install
+```
+
+## How it's run?
+
+just
+```
+npm run dev
+```
